@@ -1,0 +1,19 @@
+﻿Thomas here. Please Note:
+
+1. Change the values in the Settings.ini to match your own environment.
+
+2. I have tried to make the variable naming as clear as possible.
+
+3. Apologies for the poor structure and poor architecture. 
+
+4. If I had time, I would write tests and refactor as I usually do.
+
+5. The prerequisite is that the Word Template File must be created and stored in the location in Settings.ini.
+
+6. The Path to the WordTemplate File should be given in Settings.ini.
+
+7. Nearly all fields in Settings.ini will have to be changed when you move to a new environment.
+
+8. Working directory of the project is set to /MailAutomation, not /MailAutomation/bin/Debug. Please note.
+
+9. Password for Dooblo is not really required, don't know why!

@@ -1,0 +1,11 @@
+﻿Please install the following NuGet packages in VS 2017.
+
+1. Newtonsoft.Json
+2. Microsoft.Office.Interop.Word
+3. RestSharp
+4. DocumentFormat.OpenXML
+5. Microsoft.SQLServer.SQLManagementObjects
+
+P.S. Significant work still left on XML extraction (1-2 hours). 
+
+P. P. S. Sent this only because you insisted.
