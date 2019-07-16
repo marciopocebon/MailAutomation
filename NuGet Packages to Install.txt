@@ -6,6 +6,3 @@
 4. DocumentFormat.OpenXML
 5. Microsoft.SQLServer.SQLManagementObjects
 
-P.S. Significant work still left on XML extraction (1-2 hours). 
-
-P. P. S. Sent this only because you insisted.

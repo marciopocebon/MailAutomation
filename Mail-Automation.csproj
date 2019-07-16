@@ -1,0 +1,152 @@
+﻿<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{87AFEECE-9F7D-46FB-9D36-AA1425546F3B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>WindowsApplication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RootNamespace>Mail_Automation</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>MailAutomation.DoobloRESTTest</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Office.Interop.Word.15.0.4797.1003\lib\net20\Microsoft.Office.Interop.Word.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.12.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.6.10.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>packages\RestSharp.106.6.10\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".git\config" />
+    <None Include=".git\description" />
+    <None Include=".git\HEAD" />
+    <None Include=".git\hooks\applypatch-msg.sample" />
+    <None Include=".git\hooks\commit-msg.sample" />
+    <None Include=".git\hooks\fsmonitor-watchman.sample" />
+    <None Include=".git\hooks\post-update.sample" />
+    <None Include=".git\hooks\pre-applypatch.sample" />
+    <None Include=".git\hooks\pre-commit.sample" />
+    <None Include=".git\hooks\pre-push.sample" />
+    <None Include=".git\hooks\pre-rebase.sample" />
+    <None Include=".git\hooks\pre-receive.sample" />
+    <None Include=".git\hooks\prepare-commit-msg.sample" />
+    <None Include=".git\hooks\update.sample" />
+    <None Include=".git\index" />
+    <None Include=".git\info\exclude" />
+    <None Include=".git\logs\HEAD" />
+    <None Include=".git\logs\refs\heads\master" />
+    <None Include=".git\logs\refs\remotes\origin\HEAD" />
+    <None Include=".git\objects\15\89a8c592bdfe2cd2b118005b894a5f289d7f6e" />
+    <None Include=".git\objects\2a\e946a067fb8156d95677441e0146e782d887ad" />
+    <None Include=".git\objects\2b\44f2996e0f1c2ad843b4e52435e52aad66e548" />
+    <None Include=".git\objects\2d\5675a5750bc2feffe396897f2fb52f3384c66f" />
+    <None Include=".git\objects\39\16e0e4b4a2ba1a684e613152c711ec9ec015ac" />
+    <None Include=".git\objects\41\a3b93635a7d00c4a8f426bbb8dc295f3d855be" />
+    <None Include=".git\objects\52\f8b3d0daf6b74d087ed0ca5abd21301d41979d" />
+    <None Include=".git\objects\53\fa16b2bdd6efde084c411f0e101b17fa8dc194" />
+    <None Include=".git\objects\67\ad994bd3a9642a31bc826eede052c0937d32b4" />
+    <None Include=".git\objects\7b\1277ce7162cc7c89e23bb0b22fbbe613ef3096" />
+    <None Include=".git\objects\85\0eca021dc2906eaa58b01d31c3b3873f04925e" />
+    <None Include=".git\objects\9e\2e460085c8a250e4a16734c56b7b4ee4e8ab52" />
+    <None Include=".git\objects\d1\6941ef2b3062f0721e60546c6a80e8e5d35f68" />
+    <None Include=".git\objects\d4\73a3fbd9af8ad7bc8bb6f7b0f15ba45b91f511" />
+    <None Include=".git\objects\d7\97951649fb77a19695ffe6de53962d55247632" />
+    <None Include=".git\objects\e4\1697f2bdd52c5b5ad49acea3d4f0f04b868251" />
+    <None Include=".git\objects\f5\46357f83654a945a6e2ea520f40aa1e5c19a46" />
+    <None Include=".git\objects\f5\a88bd05dc4f44fa0790b85cd5293116d454eda" />
+    <None Include=".git\objects\f7\da9d2e4d712451fa4df4e8ad2108f8447fdb15" />
+    <None Include=".git\objects\fb\a4bb1268e0011241008bc7ba9ef753e830b9d7" />
+    <None Include=".git\packed-refs" />
+    <None Include=".git\refs\heads\master" />
+    <None Include=".git\refs\remotes\origin\HEAD" />
+    <None Include="App.config" />
+    <None Include="Inputs\BusinessCloudReport_Template.dotx" />
+    <None Include="packages.config" />
+    <None Include="PDFReports\BusinessCloudReport_101936391.pdf" />
+    <None Include="PDFReports\BusinessCloudReport_101961442.pdf" />
+    <None Include="README.md" />
+    <None Include="Settings.ini" />
+    <None Include="WordFiles\Report101629141.docx" />
+    <None Include="WordFiles\Report101936391.docx" />
+    <None Include="WordFiles\Report101961442.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ClientsHistory.txt" />
+    <Content Include="Instructions.txt" />
+    <Content Include="NuGet Packages to Install.txt" />
+    <Content Include="SurveyDatabase.xml" />
+    <Content Include="XMLFiles\SurveyRecord101629141.xml" />
+    <Content Include="XMLFiles\SurveyRecord101936289.xml" />
+    <Content Include="XMLFiles\SurveyRecord101936391.xml" />
+    <Content Include="XMLFiles\SurveyRecord101936934.xml" />
+    <Content Include="XMLFiles\SurveyRecord101937038.xml" />
+    <Content Include="XMLFiles\SurveyRecord101937259.xml" />
+    <Content Include="XMLFiles\SurveyRecord101937534.xml" />
+    <Content Include="XMLFiles\SurveyRecord101937672.xml" />
+    <Content Include="XMLFiles\SurveyRecord101937883.xml" />
+    <Content Include="XMLFiles\SurveyRecord101938055.xml" />
+    <Content Include="XMLFiles\SurveyRecord101938517.xml" />
+    <Content Include="XMLFiles\SurveyRecord101961442.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CreateWordDoc.cs" />
+    <Compile Include="DoobloRESTTest.cs" />
+    <Compile Include="ExtractFieldsXML.cs" />
+    <Compile Include="MainProgram.cs" />
+    <Compile Include="PasswordHandler.cs" />
+    <Compile Include="SendingEmail.cs" />
+    <Compile Include="WordtoPDF.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include=".git\objects\info\" />
+    <Folder Include=".git\objects\pack\" />
+    <Folder Include=".git\refs\tags\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

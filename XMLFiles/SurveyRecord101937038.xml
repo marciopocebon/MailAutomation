@@ -1,0 +1,180 @@
+<Survey Name="Coeus Age-Business Cloud Definition-Jul-19" ClientData="" ID="a334da36-2678-41ca-bc1e-1d7e4bad9618" Description="" TimeCreated="7/9/2019 7:58:06 AM" Organization="">
+  <SurveyResults>
+    <Subject InnerID="101937038" HideSubjectInfo="false">
+      <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="0" ChapterIterationID="-1">
+        <ChapterName>Main Questionnaire</ChapterName>
+        <ChapterIterationName />
+        <Questions />
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="1" ChapterIterationID="-1">
+          <ChapterName>Chapter 1</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="2" ChapterIterationID="-1">
+          <ChapterName>Chapter 2</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="3" ChapterIterationID="-1">
+          <ChapterName>Chapter 3</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="4" ChapterIterationID="-1">
+          <ChapterName>Chapter 4</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="5" ChapterIterationID="-1">
+          <ChapterName>Chapter 5</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+        <Chapter HasIterationName="False" ShowIterFixedText="False" ChapterIndex="6" ChapterIterationID="-1">
+          <ChapterName>Chapter 6</ChapterName>
+          <ChapterIterationName />
+          <Questions />
+        </Chapter>
+      </Chapter>
+      <SubjectNum Field="SbjNum">101937038</SubjectNum>
+      <Filtered Field="Filter">-1</Filtered>
+      <Date Field="Date">2019-07-15T04:12:45Z</Date>
+      <SurveyorName Field="Srvyr">STGAutoWebSurveyor</SurveyorName>
+      <SubjectName Field="SbjNam">Jijo</SubjectName>
+      <UserUnique Field="UsrUnq">jijo.thankachan@ids-global.org</UserUnique>
+      <Duration Field="Duration">00:00:00</Duration>
+      <Upload Field="Upload">2019-07-15T04:12:53Z</Upload>
+      <SubjectData Field="SubjData"></SubjectData>
+      <ReviewTime Field="RvwTime">9999-12-31T21:59:59Z</ReviewTime>
+      <ReviewerComment Field="RvwComment"></ReviewerComment>
+      <SurveyorComment Field="SrvyrComment"></SurveyorComment>
+      <Completed Field="Complete">True</Completed>
+      <StopQuestion Field="StopQ" />
+      <SubjectMode Field="Test">True</SubjectMode>
+      <ParentSubjectID Field="ParentID" />
+      <Latitude Field="Latitude" />
+      <Longitude Field="Longitude" />
+      <Status Field="Status">Approved</Status>
+      <OrigUTCMins Field="UTCDiff">+5.5</OrigUTCMins>
+      <QAScore Field="QAScore" />
+      <FreeScenarioName Field="FrScName"></FreeScenarioName>
+      <ExtRefNum Field="ExReNum"></ExtRefNum>
+      <VisitStart Field="VStart">2019-07-15T04:12:45Z</VisitStart>
+      <VisitEnd Field="VEnd">2019-07-15T04:12:50Z</VisitEnd>
+      <RunningIndex Field="RunningIndex">-1</RunningIndex>
+      <SurveyDeviceIndex Field="SurveyDeviceIndex"></SurveyDeviceIndex>
+      <DeviceIndex Field="DeviceIndex"></DeviceIndex>
+      <TaskID Field="TaskID">-1</TaskID>
+      <LocationID Field="LocID">-1</LocationID>
+      <LocationName Field="LocName"></LocationName>
+      <SurveyVersion Field="SrvVer">317</SurveyVersion>
+      <ClientSTGVersion Field="STGVer">1.32.491.0 WEB</ClientSTGVersion>
+      <SID Field="SID">-1</SID>
+      <FlagsStoppedAndContinued Field="StoppedAndContinued">False</FlagsStoppedAndContinued>
+      <FlagsWasSetAsComplete Field="WasSetAsComplete">False</FlagsWasSetAsComplete>
+      <FlagsModifiedAfterCompleted Field="ModifiedAfterCompleted">False</FlagsModifiedAfterCompleted>
+      <FlagsVersionChangedMidRun Field="VersionChangedMidRun">False</FlagsVersionChangedMidRun>
+      <Version Field="SbjVer">1</Version>
+      <FlagsWasUploadedByOtherSurveyor Field="WasUploadedByOtherSurveyor">False</FlagsWasUploadedByOtherSurveyor>
+      <ReviewerName Field="RvwName" />
+      <DeviceNewID Field="DeviceID">-1</DeviceNewID>
+      <ClientDuration Field="NetDuration">00:00:00</ClientDuration>
+      <SurveyName Field="SurveyName">Coeus Age-Business Cloud Definition-Jul-19</SurveyName>
+      <SurveyID Field="SurveyID">a334da36-2678-41ca-bc1e-1d7e4bad9618</SurveyID>
+      <DeviceIMEI Field="DeviceIMEI">122.165.154.45</DeviceIMEI>
+      <QualityControlFlag Field="QualityControlFlag">Not Flagged</QualityControlFlag>
+      <QualityControlComment Field="QualityControlComment"></QualityControlComment>
+      <LastModifiedTime Field="LastModifiedTime">2019-07-15T04:12:53Z</LastModifiedTime>
+      <SupervisorState Field="SupervisorState">None</SupervisorState>
+      <SupervisorComment Field="SupervisorComment"></SupervisorComment>
+      <BatteryLevel Field="BatteryLevel" />
+      <AttemptsPerCompletedInterview Field="AttemptsPerCompletedInterview" />
+      <AdherenceToMethodology Field="AdherenceToMethodology" />
+      <DeviceModel Field="DeviceModel">Chrome(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36)</DeviceModel>
+      <LastModifiedUserName Field="LastModifiedUserName" />
+      <CustomData1 Field="CustomData1" />
+      <CustomData2 Field="CustomData2" />
+      <CustomData3 Field="CustomData3" />
+      <CustomData4 Field="CustomData4" />
+      <CustomData5 Field="CustomData5" />
+      <CustomData6 Field="CustomData6" />
+      <CustomDataInt1 Field="CustomDataInt1" />
+      <CustomDataInt2 Field="CustomDataInt2" />
+      <CustomDataInt3 Field="CustomDataInt3" />
+      <CustomDataInt4 Field="CustomDataInt4" />
+      <CustomDataInt5 Field="CustomDataInt5" />
+      <CustomDataInt6 Field="CustomDataInt6" />
+      <InterviewStopComment Field="InterviewStopComment" />
+      <HasSilentRecordingAudio Field="HasSilentAttachments" />
+      <TrackedAnswerCodeNum Field="TrackedAnswerCodeNum" />
+      <TrackedAnswerCodePercent Field="TrackedAnswerCodePercent" />
+      <LastModifiedMediaTime Field="LastModifiedMediaTime">9999-12-31T21:59:59Z</LastModifiedMediaTime>
+      <MediaUploadedTime Field="MediaUploadedTime">9999-12-31T21:59:59Z</MediaUploadedTime>
+      <SimID Field="SimID" />
+      <VisitStartInterviewTimezone Field="InterviewTimeVStart">2019-07-15T06:42:45Z</VisitStartInterviewTimezone>
+      <VisitEndInterviewTimezone Field="InterviewTimeVEnd">2019-07-15T06:42:50Z</VisitEndInterviewTimezone>
+      <DateInterviewTimezone Field="InterviewTimeDate">2019-07-15T06:42:45Z</DateInterviewTimezone>
+      <FlagsStopWithoutSave Field="StopWithoutSave">False</FlagsStopWithoutSave>
+      <FlagByScript Field="FlagsByScript">False</FlagByScript>
+      <FlagByDuration Field="FlagsByDuration">False</FlagByDuration>
+      <FlagByReview Field="FlagsByReview">False</FlagByReview>
+      <FlagByNoGps Field="FlagsByNoGps">False</FlagByNoGps>
+      <FlagByFakeGPS Field="FlagsByFakeGPS">False</FlagByFakeGPS>
+      <FlagStraightLining Field="FlagsStraightLining">False</FlagStraightLining>
+      <FlagShortOpenEnededAnswer Field="FlagsShortOpenEnededAnswer">False</FlagShortOpenEnededAnswer>
+      <FlagTooManySessions Field="FlagsTooManySessions">False</FlagTooManySessions>
+      <FlagOddHours Field="FlagsOddHours">False</FlagOddHours>
+      <FlagByAnswerCode Field="FlagsByAnswerCode">False</FlagByAnswerCode>
+      <FlaggedByScriptComment Field="FlaggedByScriptComment" />
+      <FlaggedByReviewComment Field="FlaggedByReviewComment" />
+      <FlaggedByFakeGPSComment Field="FlaggedByFakeGPSComment" />
+      <FlaggedByShortOpenEnededAnswerComment Field="FlaggedByShortOpenEnededAnswerComment" />
+      <FlaggedByStaightLiningComment Field="FlaggedByStraightLiningComment" />
+      <OriginalUserName Field="OriginalUserName" />
+      <FlaggedByRuntimeScriptError Field="FlaggedByRuntimeScriptError">False</FlaggedByRuntimeScriptError>
+      <FlaggedByRuntimeScriptErrorComment Field="FlaggedByRuntimeScriptErrorComment" />
+      <FlaggedByClockChanged Field="FlaggedByClockChanged">False</FlaggedByClockChanged>
+      <FlaggedByClockChangedComment Field="FlaggedByClockChangedComment" />
+      <ClockChangedMidRun Field="ClockChangedMidRun">False</ClockChangedMidRun>
+      <ExternalUserID Field="ExternalUserID"></ExternalUserID>
+      <Flags2IsUploadAfterStopped Field="UploadAfterStopped">False</Flags2IsUploadAfterStopped>
+      <Flags2WasCanceled Field="WasCanceled">False</Flags2WasCanceled>
+      <FlaggedByQuestionTakingTooLong Field="FlaggedByQuestionTakingTooLong">False</FlaggedByQuestionTakingTooLong>
+      <FlaggedByQuestionTakingTooLongComment Field="FlaggedByQuestionTakingTooLongComment" />
+      <FlaggedByGPSTimeDifferenceDate Field="FlaggedByGPSTimeDifferenceDate">False</FlaggedByGPSTimeDifferenceDate>
+      <FlaggedByGPSTimeDifferenceDateComment Field="FlaggedByGPSTimeDifferenceDateComment" />
+      <FlaggedByGPSTimeDifferenceStale Field="FlaggedByGPSTimeDifferenceStale">False</FlaggedByGPSTimeDifferenceStale>
+      <FlaggedByGPSTimeDifferenceStaleComment Field="FlaggedByGPSTimeDifferenceStaleComment" />
+      <UploadInterviewTimeZone Field="InterviewTimeUpload">2019-07-15T06:42:53Z</UploadInterviewTimeZone>
+      <FlaggedByGPSServicesOff Field="FlaggedByGPSServicesOff">False</FlaggedByGPSServicesOff>
+      <FlaggedByNoSilentRecordings Field="FlaggedByNoSilentRecordings">False</FlaggedByNoSilentRecordings>
+      <FlaggedByDeviceRooted Field="FlaggedByDeviceRooted">False</FlaggedByDeviceRooted>
+      <FlaggedByDeviceRootedComment Field="FlaggedByDeviceRootedComment" />
+      <FlaggedByBacktracking Field="FlaggedByBacktracking">False</FlaggedByBacktracking>
+      <FlaggedByBacktrackingComment Field="FlaggedByBacktrackingComment" />
+      <FlaggedByGPSCapturedAtEnd Field="FlaggedByGPSCapturedAtEnd">False</FlaggedByGPSCapturedAtEnd>
+      <FlaggedByGPSCapturedAtEndComment Field="FlaggedByGPSCapturedAtEndComment" />
+      <CustomDataPII1 Field="CustomDataPII1" />
+      <CustomDataPII2 Field="CustomDataPII2" />
+      <CustomDataPII3 Field="CustomDataPII3" />
+      <CustomDataPIIInt1 Field="CustomDataPIIInt1" />
+      <CustomDataPIIInt2 Field="CustomDataPIIInt2" />
+      <CustomDataPIIInt3 Field="CustomDataPIIInt3" />
+      <FlaggedByPartialRacing Field="FlaggedByPartialRacing">False</FlaggedByPartialRacing>
+      <FlaggedByPartialRacingComment Field="FlaggedByPartialRacingComment" />
+      <CustomData7 Field="CustomData7" />
+      <CustomData8 Field="CustomData8" />
+      <CustomData9 Field="CustomData9" />
+      <CustomData10 Field="CustomData10" />
+      <CustomData11 Field="CustomData11" />
+      <CustomData12 Field="CustomData12" />
+      <CustomDataInt7 Field="CustomDataInt7" />
+      <CustomDataInt8 Field="CustomDataInt8" />
+      <CustomDataInt9 Field="CustomDataInt9" />
+      <CustomDataInt10 Field="CustomDataInt10" />
+      <CustomDataInt11 Field="CustomDataInt11" />
+      <CustomDataInt12 Field="CustomDataInt12" />
+      <SurveyorUserID Field="SurveyorUserID"></SurveyorUserID>
+    </Subject>
+  </SurveyResults>
+</Survey>
